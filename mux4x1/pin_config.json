@@ -1,0 +1,27 @@
+{
+    "pins": {
+        "I0": {
+            "side": "left"
+        },
+        "I1": {
+            "side": "left"
+        },
+        "I2": {
+            "side": "left"
+        },
+        "I3": {
+            "side": "left"
+        },
+
+        "S0": {
+            "side": "bottom"
+        },
+        "S1": {
+            "side": "bottom"
+        },
+
+        "Y": {
+            "side": "right"
+        }
+    }
+}
