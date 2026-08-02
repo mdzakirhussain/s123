@@ -1,0 +1,7 @@
+{
+    "DESIGN_NAME": "fulladder",
+    "VERILOG_FILES": ["dir::fulladder.v"],
+    "CLOCK_PORT": null,
+    "CLOCK_PERIOD": 10,
+    "IO_PIN_ORDER_CFG": "dir::pin_order.cfg"
+}
