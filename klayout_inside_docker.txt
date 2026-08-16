@@ -1,3 +1,4 @@
 export DISPLAY=:1.0
 export XAUTHORITY=/home/codespace/.Xauthority
+xhost +local:
 klayout <path-to-the-gds-file>
